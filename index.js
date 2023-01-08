@@ -4,9 +4,40 @@ const fs = require('fs');
 const genMD = require('./utils/generateMarkdown.js')
 
 // TODO: Create an array of questions for user input
-const questions = []
+const questions = [
+    {
+      type: 'input',
+      name: 'name',
+      message: 'What is your project named?',
+    },
+    {
+      type: 'input',
+      name: 'description',
+      message: 'Write a description of your project',
+    },
+    {
+      type: 'input',
+      name: 'hobby',
+      message: 'What is your favorite hobby?',
+    },
+    {
+      type: 'dropdown',
+      name: 'license',
+      
+    },
+    {
+      type: 'input',
+      name: 'github',
+      message: 'Enter your GitHub Username',
+    },
+    {
+      type: 'input',
+      name: 'linkedin',
+      message: 'Enter your LinkedIn URL.',
+    },
+]
 
-inquirer
+
 
 
 // TODO: Create a function to write README file
