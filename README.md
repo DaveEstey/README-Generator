@@ -2,7 +2,7 @@
   
   # README-Generator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
   
   ## Description
   
@@ -27,7 +27,7 @@
   
   ## Usage
  
-  After installing node_modules, run the project using 'node index.js', then answer all the questions prompted to you, and that's it! you now have a professional style README for your project.
+  After installing node_modules, run the project using 'node index.js', then answer all the questions prompted to you, and    that's it! you now have a professional style README for your project.
 
   ## License
   
