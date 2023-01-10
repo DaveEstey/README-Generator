@@ -17,17 +17,14 @@
   [Usage](https://github.com/DaveEstey/README-Generator#usage) 
 
   [License](https://github.com/DaveEstey/README-Generator#license) 
- 
-  [Badges](https://github.com/DaveEstey/README-Generator#badges) 
 
-  
   ## Installation
   
   nmp install
   
   ## Usage
  
-  After installing node_modules, run the project using 'node index.js', then answer all the questions prompted to you, and    that's it! you now have a professional style README for your project.
+  After installing node_modules, run the project using 'node index.js', then answer all the questions prompted to you, and    that's it! you now have a professional style README for your project. VIDEO TUTORIAL: https://drive.google.com/file/d/17CeIToKO7wvBOhRsbJdt7erLxx3at8WN/view
 
   ## License
   
