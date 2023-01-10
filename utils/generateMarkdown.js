@@ -44,8 +44,8 @@ function generateMarkdown(data) {//Description, Table of Contents, Installation,
   [Installation](https://github.com/DaveEstey/README-Generator#installation) \n
   [Usage](https://github.com/DaveEstey/README-Generator#usage) \n
   [License](https://github.com/DaveEstey/README-Generator#license) \n 
-  [Badges](https://github.com/DaveEstey/README-Generator#badges) \n
-  
+  [Contact Info](https://github.com/DaveEstey/README-Generator#)
+
   ## Installation
   
   ${data.installation}
